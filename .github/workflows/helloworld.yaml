@@ -1,4 +1,4 @@
-name: "Hello World GitHub Action"
+name: Hello World GitHub Action
 
 on: [push, Worlflow_dispatch]
 jobs:
